@@ -1,0 +1,37 @@
+id,weignt,group,label,lat,lng
+001p,30, Pret.de.2021,Archives départementales des Pyrénées-Atlantiques,43.48333 ,1.56667 
+002p,170, Pret.de.2022,Archives nationales,48.866669 ,2.33333 
+003p,20, Pret.de.2022,Archives départementales du Pas-de-Calais,50.950001 ,1.83333 
+004p,10, Pret.de.2023,Archives départementales de Lozère,44.83333 ,3.5 
+005p,20, Pret.de.2022,Archives municipale de Strasbourg,48.583328 ,7.75 
+006p,10, Pret.de.2020,Archives départementales de Maine-et-Loire,47.466671 ,-0.55 
+007p,30, Pret.de.2021,Archives départementales du Nord,50.633331 ,3.06667 
+008p,20, Pret.de.2022,Archives nationales d'Outre-Mer,43.533329 ,5.43333 
+009p,10, Pret.de.2020,Archives nationales du monde du travail,50.683636 ,3.165532 
+010p,20, Pret.de.2021,Centre des archives diplomatiques de Nantes,47.21667 ,-1.55 
+011p,10, Pret.de.2021,Archives départementales de Seine-Saint-Denis,48.933331 ,2.35833 
+012p,10, Pret.de.2022,Archives départementales du Val d'Oise,49.033329 ,2.06667 
+013p,10, Pret.de.2022,Archives départementales des Yvelines,48.808193 ,2.12667 
+014p,10, Pret.de.2021,Archives départementales des Alpes-Maritimes,43.700001 ,7.25 
+015p,10, Pret.de.2022,Archives municipales de Blois,47.583328 ,1.33333 
+01a,40,Emprunteur,Rome,41.8919300 ,12.5113300 
+02a,10,Emprunteur,Turiin,45.070312 ,7.6868565 
+03a,10,Emprunteur,Barcelonne,41.3887900 ,2.1589900 
+04a,20,Emprunteur,Pampelune,42.81798790 ,-1.64418350
+05a,10,Emprunteur,stuttgart,48.769830 ,9.182640 
+06a,20,Emprunteur,Suisse,46.8155135,8.224471999999992
+07a,30,Emprunteur,Pologne,51.9227505,19.136874499999976
+09a,40,Emprunteur,Berlin,52.5243700 ,13.4105300 
+10a,20,Emprunteur,New york,40.712784 ,-74.005941 
+11a,10,Emprunteur,San Sebastian,44.849998 ,5.8 
+12a,20,Emprunteur,Luxembourg,49.8157635,6.1315139999999815
+13a,10,Emprunteur,Padoue,45.406435 ,11.876761 
+14a,10,Emprunteur,Tokyo,34.886306,134.379711
+15a,30,Emprunteur,Bruxelle-Belgique,50.8504500 ,4.3487800 
+16a,20,Emprunteur,Bologne,44.494887 ,11.3426163 
+17a,10,Emprunteur,Cologne,50.937531,6.9602786
+18a,20,Emprunteur,Pays-Bas,52.133057,5.29525000000001
+19a,10,Emprunteur,Autriche,47.6975425,13.34931899999998
+20a,10,Emprunteur,Abu Dhabi,24.3587446212765,53.98249435424799
+21a,10,Emprunteur,Cambridge USA,42.373616,-71.109733
+22a,10,Emprunteur,Corée,35.9016955,127.73588949999998

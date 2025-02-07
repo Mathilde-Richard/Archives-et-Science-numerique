@@ -1,0 +1,37 @@
+id,label,weignt,group
+001p,Archives départementales des Pyrénées-Atlantiques,30, Pret.de.2021
+002p,Archives nationales,170, Pret.de.2022
+003p,Archives départementales du Pas-de-Calais,20, Pret.de.2022
+004p,Archives départementales de Lozère,10, Pret.de.2023
+005p,Archives municipale de Strasbourg,20, Pret.de.2022
+006p,Archives départementales de Maine-et-Loire,10, Pret.de.2020
+007p,Archives départementales du Nord,30, Pret.de.2021
+008p,Archives nationales d'Outre-Mer,20, Pret.de.2022
+009p,Archives nationales du monde du travail,10, Pret.de.2020
+010p,Centre des archives diplomatiques de Nantes,20, Pret.de.2021
+011p,Archives départementales de Seine-Saint-Denis,10, Pret.de.2021
+012p,Archives départementales du Val d'Oise,10, Pret.de.2022
+013p,Archives départementales des Yvelines,10, Pret.de.2022
+014p,Archives départementales des Alpes-Maritimes,10, Pret.de.2021
+015p,Archives municipales de Blois,10, Pret.de.2022
+01a,Rome,40,Emprunteur
+02a,Turiin,10,Emprunteur
+03a,Barcelonne,10,Emprunteur
+04a,Pampelune,20,Emprunteur
+05a,stuttgart,10,Emprunteur
+06a,Suisse,20,Emprunteur
+07a,Pologne,30,Emprunteur
+09a,Berlin,40,Emprunteur
+10a,New york,20,Emprunteur
+11a,San Sebastian,10,Emprunteur
+12a,Luxembourg,20,Emprunteur
+13a,Padoue,10,Emprunteur
+14a,Tokyo,10,Emprunteur
+15a,Bruxelle-Belgique,30,Emprunteur
+16a,Bologne,20,Emprunteur
+17a,Cologne,10,Emprunteur
+18a,Pays-Bas,20,Emprunteur
+19a,Autriche,10,Emprunteur
+20a,Abu Dhabi,10,Emprunteur
+21a,Cambridge USA,10,Emprunteur
+22a,Corée,10,Emprunteur
